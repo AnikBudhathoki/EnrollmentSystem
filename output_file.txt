@@ -1,0 +1,9 @@
+[ENGINEERING STUDENTS]
+[SCIENCE STUDENTS]
+[BIOLOGY STUDENTS]
+ | NAME: Anik Budhathoki | AGE: 19 | ID: 3402|
+ | NAME: Scott W | AGE: 20 | ID: 3722|
+ | NAME: Christian C | AGE: 21 | ID: 3136|
+ | NAME: Jason H | AGE: 18 | ID: 3974|
+ | NAME: Omar J | AGE: 19 | ID: 3528|
+[PROFESSOR]
